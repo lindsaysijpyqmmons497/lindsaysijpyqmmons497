@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm lindsaysijpyqmmons497
 
-<!--
-**lindsaysijpyqmmons497/lindsaysijpyqmmons497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚵 🎭 A lover of system programming 🚵 🎭
 
-Here are some ideas to get you started:
+## About Me
+🏄 🌈 🚵 Obsessed with databases 🏄 🌈 🚵
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎮 🎯 🚴 Obsessed with developer relations 🎮 🎯 🚴
+
+### Fun Facts
+🚵 🎽 🎯 Looking to collaborate on testing 🚵 🎽 🎯
+
+---
+🏒 🎸 🎣 🌍 🎯 Thanks for visiting my profile! 🛼 🎳 🎯 🎽 🥋
